@@ -1,0 +1,6 @@
+---
+title: "2nd R Notebook"
+output: Carlos Alderete
+---
+
+Text.
