@@ -1,6 +1,6 @@
 ---
 title: "R Notebook"
-author: "Lindsay Waldrop"
+author: "Carlos Alderete"
 output: html_notebook
 ---
 
